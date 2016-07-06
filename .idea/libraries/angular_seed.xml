@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="angular-seed" type="javaScript">
+    <properties>
+      <sourceFilesUrls>
+        <item url="file://$USER_HOME$/git/angular-seed" />
+      </sourceFilesUrls>
+    </properties>
+    <CLASSES>
+      <root url="file://$USER_HOME$/git/angular-seed" />
+    </CLASSES>
+    <SOURCES />
+  </library>
+</component>
